@@ -19,7 +19,7 @@ Clone this repo, get yourself setup with a [cluster on mongodb atlas](https://do
 }
 ```
 
-### deploy the AWS_PROFILE
+### deploy the api
 
 `yarn webiny deploy api --env=local`
 
