@@ -18,4 +18,4 @@ build-ssr/
 .history
 *.tsbuildinfo
 yarn.lock
-cypress.json
+cypress.jsonlocal_urls
